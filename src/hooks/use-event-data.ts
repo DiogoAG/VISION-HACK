@@ -7,7 +7,7 @@ import { EventData, Guest } from '@/lib/types';
 const STORAGE_KEY = 'showup_event_v1';
 
 const DEFAULT_EVENT: EventData = {
-  title: "Neon Nights: The Underground",
+  title: "Vision Hack",
   date: "2024-12-31",
   time: "22:00",
   venue: "The Boiler Room, Downtown",
