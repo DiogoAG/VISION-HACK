@@ -131,7 +131,7 @@ export function GuestView({ data, onRsvp }: GuestViewProps) {
                 className="bg-transparent border-none focus-visible:ring-0 text-lg h-12"
                 required
               />
-              <Button type="submit" size="lg" className="bg-primary hover:bg-primary/90 text-white font-bold h-12 px-8">
+              <Button type="submit" size="lg" className="bg-destructive hover:bg-destructive/90 text-white font-bold h-12 px-8">
                 RSVP
               </Button>
             </form>
